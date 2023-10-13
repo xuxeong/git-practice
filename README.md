@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 I am a college student learning about software.
+
+This is my lab7 practice!
+
 <!--
 **xuxeong/xuxeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
